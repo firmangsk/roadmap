@@ -1,0 +1,12 @@
+Belajar Apa saja?
+
+1. Github/Git    Progress  6/14    Youtube  (This Month)
+2. Docker        Progress  0/3     Youtube  (Next Month?)
+3. Python        Progress  50/71   Youtube  (5 Month ago, need to re learn)
+4. Javascript    Progress  10/44   Youtube  (i need this, because i want to learn react)
+5. Java          Progress  10/76   Youtube  (Ugh dont know what to do about this, need to learn for my class but not my style, need more time to learn this i think)
+
+Project
+1. Aplikasi hitung gaji karyawan, rencana pakai mysql,node,react,express. Tapi kalau ada yang punya ide dan belajar bareng silakan message saja.
+2. Aplikasi ATK Kantor, jadi ada data ATK Kantor, pesan ATK ke suppliyer, data suppliyer, stok atk, atk keluar masuk mungkin?, laporan penggunaan atk untuk siapa saja?
+3. Production Management System yups kayaknya komplek jadi aku pikir nanti saja dulu
